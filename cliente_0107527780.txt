@@ -1,0 +1,6 @@
+Cedula=0107527780
+Nombre=David Mendez
+Direccion=kennedy
+Telefono=0995303642
+Email=vicomendez186@gmail.com
+FechaRegistro=2025-06-10

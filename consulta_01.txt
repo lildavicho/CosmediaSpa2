@@ -1,0 +1,4 @@
+Codigo=01
+Motivo=nose
+Precio=5.0
+Duracion=10

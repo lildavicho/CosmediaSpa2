@@ -1,0 +1,11 @@
+NumeroFactura=04
+Fecha=2025-06-10
+Cliente=0107215279
+Detalle=01,Gripe,1,10,00,10,00
+Detalle=01,tiene sida pa,1,50,00,50,00
+Subtotal=60.0
+DescuentoPct=5.0
+MontoDescuento=3.0
+IVA=15.0
+MontoIVA=8.549999999999999
+Total=65.55
